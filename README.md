@@ -1,2 +1,2 @@
 # softwareProject
-introduction:
+introduction: The "Learn" project aims to enhance communication between teachers and parents. To achieve this goal, we conducted several interviews in the initial stage of the project and concluded that there is a need to improve communication between teachers and parents. Consequently, we created a preliminary design of the program using Figma. At this stage, the main objective is to convert this Figma design into a complete program that we can launch to users using Flutter and the Dart programming language.
